@@ -25,7 +25,8 @@ Thanks for being here 🤍
 
 
 
-![Hebron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebronEnyew&show_icons=true&theme=radical)
+![Hebron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebronEnyew&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 
 <a href="https://www.linkedin.com/in/hebronenyew/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width:50px;height:50px;border-radius:50%;"/>
